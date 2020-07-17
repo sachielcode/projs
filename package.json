@@ -1,0 +1,14 @@
+{
+  "name": "projs",
+  "version": "1.0.0",
+  "description": "Curso Profesional de Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
